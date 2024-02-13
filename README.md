@@ -1,6 +1,6 @@
 
 
-# Pokemon Interactive Web Quizz
+# Pokemon Interactive Web App
 
 ### :trophy: Winner of Hackaton Code4All Dez23 :trophy: ###
 Fully developed in native JS, CSS, and HTML5 in less than 24 hours :dart:
