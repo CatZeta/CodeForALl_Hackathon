@@ -2,7 +2,7 @@
 
 # Pokemon Interactive Web Quizz
 
-### :trophy: Winner of Hackaton Code4All 23/24 :trophy: ###
+### :trophy: Winner of Hackaton Code4All Dez23 :trophy: ###
 Fully developed in native JS, CSS, and HTML5 in less than 24 hours :dart:
 
 ![1](https://github.com/CatZeta/CodeForALl_Hackathon/assets/139911572/93bc4be0-db91-4a26-9327-65ccac46496a)
