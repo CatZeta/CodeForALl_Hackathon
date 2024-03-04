@@ -7,8 +7,7 @@ Fully developed in native JS, CSS, and HTML5 in less than 24 hours :dart:
 
 ![1](https://github.com/CatZeta/CodeForALl_Hackathon/assets/139911572/93bc4be0-db91-4a26-9327-65ccac46496a)
 
-
-It's an interactive experience that bridges the gap between a video game and a quiz.
+It's an interactive experience with an innovative game that tests your knowledge to help you in battle.
 
 ![2](https://github.com/martimAredeSantos/Hackaton23_24-PokemonWebQuizz/assets/147712420/7715f77a-c39e-4c01-bc53-6b334f4c9600)
 
